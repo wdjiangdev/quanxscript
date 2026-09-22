@@ -66,8 +66,7 @@ DOMAIN, updates-http.cdn-apple.com, Apple_CDN
 DOMAIN, updates.cdn-apple.com, Apple_CDN
 # App Store & iTunes Images
 DOMAIN-SUFFIX, mzstatic.com, Apple_CDN
-# Mac App Store
-PROCESS-NAME, storedownloadd, Apple_CDN
+
 # iOS App Store
 USER-AGENT, com.apple.appstored*, Apple_CDN
 # iTunes
